@@ -17,14 +17,14 @@ MyIR-SmartCar is an innovative IoT-based smart remote-controlled car that can be
 
 ## 🧰 **Hardware Requirements**
 
-[![ESP8266](https://img.shields.io/badge/ESP8266-Supported-blue?style=for-the-badge)](https://www.espressif.com/en/products/socs/esp8266) [![Li-ion Battery](https://img.shields.io/badge/Battery-Li--ion%206V-red?style=for-the-badge)](https://example.com)
+[![ESP8266](https://img.shields.io/badge/ESP8266-Supported-blue?style=for-the-badge)](https://www.espressif.com/en/products/socs/esp8266) [![Li-ion Battery](https://img.shields.io/badge/Battery-Li--ion%203.7V-red?style=for-the-badge)](https://example.com)
 
 - **ESP8266**: Main microcontroller for Wi-Fi and control logic.
-- **Li-ion Batteries (6V, 2 units)**: Power supply for the system.
+- **Li-ion Batteries (3.7V, 2 units)**: Power supply for the system.
 - **Motor Driver L298N**: Motor control.
 - **2 GearBox Motors with Wheels**: For movement.
 - **Buzzer (1 unit)**: Optional alert system.
-- **Infrared Sensor (1 unit)**: For obstacle detection or advanced functionalities.
+- **Infrared Sensor - TCRT5000 (1 unit)**: For obstacle detection or advanced functionalities.
 
 ![image](https://raw.githubusercontent.com/DiazIrfandi/MyIR-SmartCar/refs/heads/main/SmartCar.png)
 
